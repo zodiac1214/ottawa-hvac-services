@@ -1,9 +1,8 @@
-email: 'example@example.com'
-phone: 'XXXX XXX XXX'
-businessName: 'Hugo Serif'
+email: "ottawahvacservices@gmail.com"
+phone: "613 875 9992"
+businessName: "Ottawa Hvac Services"
 address: |
-  123 Some Street
-  City, State 12345
+  Ottawa, ON
 hours:
   - day: Monday
     open: 8:30am

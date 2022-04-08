@@ -1,6 +1,6 @@
 baseURL = "https://zodiac1214.github.io/ottawa-hvac-services"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "Ottawa Hvac Services"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
